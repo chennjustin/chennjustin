@@ -17,16 +17,13 @@ Always happy to learn something new or team up on cool projects, so feel free to
 
 ---
 
-## 🏅 Leadership & Activities
+## 🏅 Community Participation
 
 ### **SITCON（Students’ Information Technology Conference） – Marketing Dept**  
 Member of the marketing division of the largest student-organized IT community in Asia.  
 
 ### **Cofacts 真的假的（g0v Open Source Project） – Intern**  
 Engaged in problem-solving, mentoring participants, and contributing to open-source discussions around fact-checking, misinformation, and civic technology.
-
-### **NTU IM Camp（臺大資管營） – Team Leader / Activity Staff / Photography Crew**  
-Participated in multiple divisions throughout the camp’s execution:
 
 ---
 
