@@ -27,17 +27,6 @@ Contributing to fact-checking and civic technology.
 
 ---
 
-## 📊 GitHub Profile Overview
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chennjustin&theme=tokyonight)
-
-### GitHub Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chennjustin&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chennjustin&theme=tokyonight)
-
----
-
 ## 📫 Contact
 
 **LinkedIn:** https://www.linkedin.com/in/hung-chi-chen-b82b86369/  
