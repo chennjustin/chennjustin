@@ -20,9 +20,16 @@ When I’m not in dev mode, you’ll probably find me on a volleyball court or b
 
 ## GitHub Profile Overview
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chennjustin&theme=tokyonight)
+
 ### GitHub Stats
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chennjustin&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chennjustin&theme=tokyonight)
+
 ### Contribution Streak
+
+![](https://streak-stats.demolab.com/?user=chennjustin&theme=tokyonight&hide_border=false&locale=zh_Hant)
 
 ---
 
